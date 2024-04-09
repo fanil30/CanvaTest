@@ -1,7 +1,3 @@
-Certainly! Here's the revised README using markdown syntax with ** for bold text and [] for hyperlinks:
-
----
-
 # **Canva Project**
 
 This project is aimed at creating an Android application that allows users to draw over other apps with a resizeable window displaying a provided image.
